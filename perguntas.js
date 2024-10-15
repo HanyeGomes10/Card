@@ -24,7 +24,7 @@ criaCartao (
 
 criaCartao (
     'QUÍMICA',
-    'O que diz a regra do arquiteto?',
+    'O que diz a regra do octeto?',
     'Ela diz que um átomo só ganha estabilidade com 8 elétrons na camada de valência.'
 )
 
